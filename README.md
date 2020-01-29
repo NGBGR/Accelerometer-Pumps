@@ -1,4 +1,4 @@
-# Flowserve
+# Accelerometer & Pumps
 Research &amp; Development Data Science
 
 Exercise 1: You are given a one-second sample of time-series data in tdms format named ‘ex1.tdms’, which were obtained from sensors attached to a pump. Write a short documentation (max 2 pages) to explain the data to other data scientists and management team. In particular, explain processing steps that you decided to perform on the data, their motivations and results. 
